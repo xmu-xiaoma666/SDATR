@@ -149,9 +149,8 @@ def train_scst(model, dataloader, optim, cider, text_field):
 
 if __name__ == '__main__':
     device = torch.device('cuda')
-    parser = argparse.ArgumentParser(description='Meshed-Memory Transformer')
-    parser.add_argument('--exp_name', type=str, default='SDATR:Semantic-enhanced Dual
-Attention Transformer')
+    parser = argparse.ArgumentParser(description='Semantic-enhanced Dual Attention Transformer')
+    parser.add_argument('--exp_name', type=str, default='SDATR')
     parser.add_argument('--batch_size', type=int, default=50)
     parser.add_argument('--rl_batch_size', type=int, default=100)
     parser.add_argument('--workers', type=int, default=4)

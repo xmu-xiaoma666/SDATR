@@ -48,7 +48,7 @@ def predict_captions(model, dataloader, text_field):
 if __name__ == '__main__':
     device = torch.device('cuda')
 
-    parser = argparse.ArgumentParser(description='Meshed-Memory Transformer')
+    parser = argparse.ArgumentParser(description='Semantic-enhanced Dual Attention Transformer')
     parser.add_argument('--batch_size', type=int, default=5)
     parser.add_argument('--workers', type=int, default=0)
     parser.add_argument('--exp_name', default='')
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     parser.add_argument('--annotation_folder', type=str,default='/home/data/m2_annotations')
     args = parser.parse_args()
 
-    print('Meshed-Memory Transformer Evaluation')
+    print('Semantic-enhanced Dual Attention Transformer Evaluation')
 
     # Pipeline for image regions
     image_field = ImageDetectionsField(detections_path=args.features_path, max_detections=49, load_in_tmp=False)
