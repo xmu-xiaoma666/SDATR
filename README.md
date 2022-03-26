@@ -23,7 +23,7 @@ python eval.py --batch_size 50 --exp_name SDATR --features_path /home/data/coco_
 ```
 
 
-Pretrained model is available [](). Acess code: xxx.
+Pretrained model is available [here](https://pan.baidu.com/s/1yg5GSI5SptuNl1O_WLPryw). Acess code: hdfw.
 By evaluating the pretrained model, you will get
 ```bash
 {'BLEU': [0.8130918073281019, 0.6613944708299153, 0.5173751961764315, 0.3973754802778509], 'METEOR': 0.29504133552506084, 'ROUGE': 0.5914517025819723, 'CIDEr': 1.3447844386129792, 'SPICE': 0.23130604798677026}
