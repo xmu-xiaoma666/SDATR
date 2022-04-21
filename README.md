@@ -1,5 +1,5 @@
 # Knowing what it is: Semantic-enhanced Dual Attention Transformer
-Official Code for ["Knowing what it is: Semantic-enhanced Dual Attention Transformer" (TMM2022)] (https://ieeexplore.ieee.org/abstract/document/9749944)
+Official Code for ["Knowing what it is: Semantic-enhanced Dual Attention Transformer" (TMM2022)](https://ieeexplore.ieee.org/abstract/document/9749944)
 
 ![](images/SDATR.png)
 
