@@ -28,3 +28,8 @@ By evaluating the pretrained model, you will get
 ```bash
 {'BLEU': [0.8130918073281019, 0.6613944708299153, 0.5173751961764315, 0.3973754802778509], 'METEOR': 0.29504133552506084, 'ROUGE': 0.5914517025819723, 'CIDEr': 1.3447844386129792, 'SPICE': 0.23130604798677026}
 ```
+
+## Citation
+```
+@ARTICLE{9749944,  author={Ma, Yiwei and Ji, Jiayi and Sun, Xiaoshuai and Zhou, Yiyi and Wu, Yongjian and Huang, Feiyue and Ji, Rongrong},  journal={IEEE Transactions on Multimedia},   title={Knowing what it is: Semantic-enhanced Dual Attention Transformer},   year={2022},   doi={10.1109/TMM.2022.3164787}}
+```
