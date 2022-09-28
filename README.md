@@ -31,5 +31,12 @@ By evaluating the pretrained model, you will get
 
 ## Citation
 ```
-@ARTICLE{9749944,  author={Ma, Yiwei and Ji, Jiayi and Sun, Xiaoshuai and Zhou, Yiyi and Wu, Yongjian and Huang, Feiyue and Ji, Rongrong},  journal={IEEE Transactions on Multimedia},   title={Knowing what it is: Semantic-enhanced Dual Attention Transformer},   year={2022},   doi={10.1109/TMM.2022.3164787}}
+@ARTICLE{
+  ma2022knowing,  
+  author={Ma, Yiwei and Ji, Jiayi and Sun, Xiaoshuai and Zhou, Yiyi and Wu, Yongjian and Huang, Feiyue and Ji, Rongrong},  
+  journal={IEEE Transactions on Multimedia},   
+  title={Knowing what it is: Semantic-enhanced Dual Attention Transformer},   
+  year={2022},   
+  doi={10.1109/TMM.2022.3164787}
+}
 ```
